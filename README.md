@@ -30,6 +30,7 @@ var App = SecretStack({ global: { appKey: '1KHLiKZvAvjbY1ziZEHMXawbCEIM6qwjCDm3V
 
 var app = App(config)
 ```
+See also: [`talk.js`](./examples/talk.js) and [`listen.js`](./examples/listen.js)
 
 For documentation on plugins, see [PLUGINS.md](./PLUGINS.md).
 
